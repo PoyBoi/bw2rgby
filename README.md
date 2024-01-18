@@ -1,2 +1,6 @@
-# bw2rgb
-Converts B&amp;W image to RGB using OpenCV and GAN's
+<h1 align="center">
+Black and White Image/Video to Color
+</h1>
+<p align="center">
+Converts a Black and White image or live camera stream to RGB using OpenCV and GAN's
+</p>
