@@ -4,3 +4,6 @@ Black and White Image/Video to Color
 <p align="center">
 Converts a Black and White image or live camera stream to RGB using OpenCV and GAN's
 </p>
+<hr/>
+<h3>References:</h3>
+[A1](cyberpunk.net)
