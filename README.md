@@ -17,3 +17,10 @@ Denoises a Black and White image or live camera stream and then restores it to R
 - [realESGRAN](https://github.com/xinntao/Real-ESRGAN)
 - [MS img restoration (VAE, mapping networks)](https://github.com/topics/old-photo-restoration)
 - [Refusion model based restoration](https://github.com/Algolzw/image-restoration-sde)
+
+<hr/>
+
+### References
+
+- [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://github.com/richzhang/colorization)
+- [Aforementioned Research Paper](https://richzhang.github.io/colorization/)
