@@ -1,6 +1,6 @@
 torch
-skimage
+scikit_image
 numpy
 matplotlib
 argparse
-PIL
+pillow
