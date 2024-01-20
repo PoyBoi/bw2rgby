@@ -18,6 +18,9 @@ Denoises a Black and White image or live camera stream and then restores it to R
 - [MS img restoration (VAE, mapping networks)](https://github.com/topics/old-photo-restoration)
 - [Refusion model based restoration](https://github.com/Algolzw/image-restoration-sde)
 - [Working with inpainting in openCV](https://pyimagesearch.com/2020/05/18/image-inpainting-with-opencv-and-python/)
+- [Image enhancement + restoration](https://www.tome01.com/nhance-restore-images-with-opencv-and-python#image-enhancement-techniques)
+- [Making masks](https://campus.datacamp.com/courses/image-processing-in-python/image-restoration-noise-segmentation-and-contours?ex=1)
+  - [SO Issue on masking](https://stackoverflow.com/questions/10469235/opencv-apply-mask-to-a-color-image)
 
 <hr/>
 
