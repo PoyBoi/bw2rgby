@@ -1,5 +1,12 @@
-def colorize(file_loc: str, use_gpu: bool = False):
-
+def colorize(
+    file_loc: str,
+    is_img: bool = True,
+    method: int = 1,
+    show_graph: bool = False,
+    save_image: bool = False,
+    use_gpu: bool = False
+):
+    # method == 0: ECCV; method == 1: SIGGRAPH (default)
     import os
     import torch
     import argparse
