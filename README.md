@@ -26,7 +26,10 @@ Denoises a Black and White image or live camera stream and then restores it to R
 
 ### To-do's
 
-- Need to find a way to get the masking automatically
+- Masking worked, need a way to get it to be right, edge detection is weak
+  - need to find out where to place the edge detector
+    - see if it is better w/ or w/o blur and/or processing
+- NS is superior to telea based on blurriness
 
 ### References
 
