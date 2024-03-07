@@ -28,6 +28,8 @@ WRT to code in order:
 3. Already made, implement / extend it's usage
 4. Simple enough, make argparse like zB
 
+</hr>
+
 ### In order of importance/logic
 
 todo's:
