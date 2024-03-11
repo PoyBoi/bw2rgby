@@ -39,7 +39,7 @@ WRT to code in order:
 todo's:
 
 1. Read up on:
-   1. Deep Latent Space Translation
+   1. ~Deep Latent Space Translation~
    2. ResBlock
    3. Triplet domain translation
 2. Training:
@@ -47,7 +47,12 @@ todo's:
    2. Find the dataset
    3. Understand the training
 3. Imports
-   1. Synchronized-BatchNorm-PyTorch
-   2. Landmark Detection
+   1. ~Synchronized-BatchNorm-PyTorch~ [Calls torch's batch normalization, just synced]
+   2. ~Landmark Detection~ [Landmarks in faces, important points, outputs locations, helps to detect things (emotions, eye position, etc)]
    3. The "pretrained" model
-   4. The requirements
+   4. ~The requirements~
+      - dlib: ML packages, algo's - mainly for c++, ported to python
+      - easyDict: Helps to make parsing dictionaries easier, esp JSON's
+      - dominate: Creates HTML pages
+      - dill: Python pickling library
+      - einops: Extends tensor packages with extra math features added to them
