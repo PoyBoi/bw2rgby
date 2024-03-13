@@ -6,11 +6,11 @@
 
 code in order:
 
-1. Coloring/Color Correction
-   1. Face Detection/Enhancement
-2. Image restoration with scratches
+1. Image restoration with scratches
    1. Making UNet
    2. Inpainting and filling in the mask
+2. Coloring/Color Correction
+   1. Face Detection/Enhancement
 3. GUI using Gradio
 4. Making a universal launcher for cli
 
