@@ -20,14 +20,14 @@ code in order:
 
 WRT to code in order:
 
-1. Read up on the code give
-   1. Use GFPGAN/RealESRGAN
-      - run.py <input folder // output folder>
-2. Read up from with code, do what you understand
+1. Read up from with code, do what you understand
    1. Do so from the code
    2. Try to see if there are any other better methods, if not, use the method they are using
       - run.py --with_scratch -> test.py --test_mode --Quality_restore
       - else (no scratch) |-> detection.py
+2. Read up on the code give
+   1. Use GFPGAN/RealESRGAN
+      - run.py <input folder // output folder>
 3. Already made, implement / extend it's usage
    - run.py --with_scratch --HR
 4. Simple enough, make argparse like zB
