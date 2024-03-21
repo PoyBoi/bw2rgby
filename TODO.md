@@ -2,9 +2,17 @@
 
 </hr>
 
+### Todo's Unrelated:
+
+Stuff in the same lane:
+
+1. Try solving the issues on the BOPBTL repo
+
+</hr>
+
 ### Code needed to be made:
 
-code in order:
+Code in order:
 
 1. Image restoration with scratches
    1. Making UNet
