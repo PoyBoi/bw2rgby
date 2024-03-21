@@ -67,3 +67,6 @@ todo's:
       - dominate: Creates HTML pages
       - dill: Python pickling library
       - einops: Extends tensor packages with extra math features added to them
+
+### MISC Links:
+- [Replicate's website for BOPBTL](https://replicate.com/microsoft/bringing-old-photos-back-to-life), give this a read
