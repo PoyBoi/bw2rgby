@@ -11,8 +11,9 @@ code in order:
    2. Inpainting and filling in the mask
 2. Coloring/Color Correction
    1. Face Detection/Enhancement
-3. GUI using Gradio
-4. Making a universal launcher for cli
+3. Image Quality Improvement
+4. GUI using Gradio
+5. Making a universal launcher for cli
 
 </hr>
 
@@ -23,8 +24,8 @@ WRT to code in order:
 1. Read up from with code, do what you understand
    1. Do so from the code
    2. Try to see if there are any other better methods, if not, use the method they are using
-      - [No scratch] |-> run.py --with_scratch -> test.py --test_mode --Quality_restore
-      - [Scratch] |-> detection.py --input_size full_size --GPU |-> main(config)
+      - ~[No scratch] |-> run.py --with_scratch -> test.py --test_mode --Quality_restore~
+      - ~[Scratch] |-> detection.py --input_size full_size --GPU |-> main(config)~
 2. Read up on the code give
    1. Use GFPGAN/RealESRGAN
       - run.py <input folder // output folder>
