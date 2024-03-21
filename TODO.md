@@ -7,6 +7,7 @@
 Stuff in the same lane:
 
 1. Try solving the issues on the BOPBTL repo
+2. Before adding a PR, open a issue, and then see
 
 </hr>
 
