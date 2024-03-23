@@ -2,17 +2,27 @@
 
 </hr>
 
+### Todo's Unrelated:
+
+Stuff in the same lane:
+
+1. Try solving the issues on the BOPBTL repo
+2. Before adding a PR, open a issue, and then see
+
+</hr>
+
 ### Code needed to be made:
 
-code in order:
+Code in order:
 
 1. Image restoration with scratches
    1. Making UNet
    2. Inpainting and filling in the mask
 2. Coloring/Color Correction
    1. Face Detection/Enhancement
-3. GUI using Gradio
-4. Making a universal launcher for cli
+3. Image Quality Improvement
+4. GUI using Gradio
+5. Making a universal launcher for cli
 
 </hr>
 
